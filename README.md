@@ -1,7 +1,8 @@
 # Qpesums-to-hdf5
 
 # Usage
-    This project is specifically designed to convert 3D Qpesums data to HDF5 format. 3D Qpesums data will not be provided, and purchase is required.
+
+This project is specifically designed to convert 3D Qpesums data to HDF5 format. 3D Qpesums data will not be provided, and purchase is required.
 
 # Steps
 1. Unzip the raw files (Yearly -> Daily)
